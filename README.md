@@ -103,7 +103,6 @@ me.say_hi()
 
 ---
 
-
 ## 🔥 Featured Projects
 
 <div align="center">
