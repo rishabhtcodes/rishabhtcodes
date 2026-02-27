@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Rishabh+Kumar+Tiwari;Full+Stack+Engineer+%7C+Django+%2B+React+%F0%9F%9A%80;B.Tech+CSE+%40+Lovely+Professional+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Rishabh+Kumar+Tiwari;Full+Stack+Engineer+%7C+Django+%2B+React+%F0%9F%9A%80;B.Tech+CSE+%40+Lovely+Professional+University+ )](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
