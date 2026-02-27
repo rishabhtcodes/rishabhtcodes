@@ -20,7 +20,7 @@ class RishabhKumarTiwari:
     def __init__(self):
         self.name = "Rishabh Kumar Tiwari"
         self.role = "Full Stack Engineer"
-        self.location = "Sonebhadra, Uttar Pradesh, India 🇮🇳"
+        self.location = "Jalandhar, Punjab, India 🇮🇳"
         self.languages = ["Python", "JavaScript", "HTML/CSS", "SQL"]
         self.interests = ["Web Development", "REST APIs", "Cloud Technologies"]
         self.currently_learning = ["React", "Cloud Deployments", "CI/CD Pipelines"]
