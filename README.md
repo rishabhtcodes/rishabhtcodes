@@ -109,7 +109,7 @@ me.say_hi()
 <div align="center">
 
 | Project | Description | Tech |
-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>|
+|---------|-------------|------|
 | [🌾 Crop Disease Prediction](https://github.com/rishabhtcodes) | Rule-driven crop analysis using 2D arrays to evaluate temperature-humidity conditions & flag disease risks | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square) |
 | [📅 Study Timetable Generator](https://github.com/rishabhtcodes) | Dynamic scheduling engine generating weekly study plans with weighted randomization & adaptive timetables | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![STL](https://img.shields.io/badge/-STL-orange?style=flat-square) |
 | [🛒 Lovely Kart E-Commerce](https://lovelycart.vercel.app/) | Seamless shopping experience with product browsing, cart management & responsive design | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
@@ -127,7 +127,7 @@ me.say_hi()
 <div align="center">
 
 | | Details |
-|<img src="./section-divider.svg" width="100%"/>|<img src="./section-divider.svg" width="100%"/>|
+|---|---|
 | 🏫 **Lovely Professional University** | B.Tech in Computer Science & Engineering • CGPA: 7.10 |
 | 📍 Location | Phagwara, Punjab |
 
@@ -140,7 +140,7 @@ me.say_hi()
 <div align="center">
 
 | Certificate | Issuer |
-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>--|
+|-------------|--------|
 | Mastering C++: OOP to Dynamic Programming | Lovely Professional University |
 | Built Generative AI Apps with No-Code Tools | Udemy |
 | Master Generative AI & GenAI Tools (ChatGPT & more) | Udemy |
