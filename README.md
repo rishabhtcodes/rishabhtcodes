@@ -1,9 +1,10 @@
 <div align="center">
 
+<!-- Animated Hero Banner -->
+<img src="./banner.svg" width="100%" alt="Rishabh Kumar Tiwari - Full Stack Engineer"/>
+
 <!-- Dynamic Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%F0%9F%91%8B+Hey+there!+I'm+Rishabh+Kumar+Tiwari;Full+Stack+Engineer+%7C+Django+%2B+React+%F0%9F%9A%80;B.Tech+CSE+%40+Lovely+Professional+University)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p>
   <a href="https://linkedin.com/in/rishabhtcodes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
@@ -42,7 +43,7 @@ me.say_hi()
 - 💼 Open to **collaborations** and **freelance opportunities**
 - 📫 Reach me at **rishabhtiwari3538@gmail.com**
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +79,7 @@ me.say_hi()
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -93,7 +94,7 @@ me.say_hi()
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -101,14 +102,14 @@ me.say_hi()
   <img src="https://github-trophies.vercel.app/?username=rishabhtcodes&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🔥 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
-|---------|-------------|------|
+|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>|
 | [🌾 Crop Disease Prediction](https://github.com/rishabhtcodes) | Rule-driven crop analysis using 2D arrays to evaluate temperature-humidity conditions & flag disease risks | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square) |
 | [📅 Study Timetable Generator](https://github.com/rishabhtcodes) | Dynamic scheduling engine generating weekly study plans with weighted randomization & adaptive timetables | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![STL](https://img.shields.io/badge/-STL-orange?style=flat-square) |
 | [🛒 Lovely Kart E-Commerce](https://lovelycart.vercel.app/) | Seamless shopping experience with product browsing, cart management & responsive design | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
@@ -119,27 +120,27 @@ me.say_hi()
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🎓 Education
 
 <div align="center">
 
 | | Details |
-|---|---|
+|<img src="./section-divider.svg" width="100%"/>|<img src="./section-divider.svg" width="100%"/>|
 | 🏫 **Lovely Professional University** | B.Tech in Computer Science & Engineering • CGPA: 7.10 |
 | 📍 Location | Phagwara, Punjab |
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 📜 Certifications
 
 <div align="center">
 
 | Certificate | Issuer |
-|-------------|--------|
+|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>-|<img src="./section-divider.svg" width="100%"/><img src="./section-divider.svg" width="100%"/>--|
 | Mastering C++: OOP to Dynamic Programming | Lovely Professional University |
 | Built Generative AI Apps with No-Code Tools | Udemy |
 | Master Generative AI & GenAI Tools (ChatGPT & more) | Udemy |
@@ -148,7 +149,7 @@ me.say_hi()
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🏅 Achievements
 
@@ -162,7 +163,7 @@ me.say_hi()
 
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 ## 📈 Activity Graph
 
@@ -170,18 +171,15 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhtcodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph" width="100%"/>
 </div>
 
----
+<img src="./section-divider.svg" width="100%"/>
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together!
+<!-- Animated Footer CTA -->
+<img src="./footer-cta.svg" width="100%" alt="Let's Connect"/>
 
-<p>
-  <i>"Crafting logic with purpose | Turning ideas into clean, scalable code | Constantly learning, building & improving"</i>
-</p>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishabhtcodes&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
