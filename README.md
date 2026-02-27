@@ -72,8 +72,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhtcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhtcodes&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhtcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
 
 <br/>
 
@@ -83,31 +83,27 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://github.com/rishabhtcodes/E-Commerce">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhtcodes&repo=E-Commerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/rishabhtcodes/Todo_list">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhtcodes&repo=Todo_list&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/rishabhtcodes/Django_Rest_Api-s">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhtcodes&repo=Django_Rest_Api-s&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/rishabhtcodes/Mailing-Web-App">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishabhtcodes&repo=Mailing-Web-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabhtcodes&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rishabhtcodes/rishabhtcodes/output/github-snake-dark.svg" alt="Snake animation" />
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🛒 E-Commerce](https://github.com/rishabhtcodes/E-Commerce) | Full-featured e-commerce web application | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [✅ Todo List](https://github.com/rishabhtcodes/Todo_list) | Task management app with Django & Tailwind CSS | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| [📡 Django REST APIs](https://github.com/rishabhtcodes/Django_Rest_Api-s) | REST API implementations with different data patterns | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white) |
+| [📧 Mailing Web App](https://github.com/rishabhtcodes/Mailing-Web-App) | Web-based mailing application | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [💼 Udyog Saarthi](https://github.com/rishabhtcodes/Udyog_Saarthi) | Career guidance platform | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [� Django CI/CD](https://github.com/rishabhtcodes/djangocicd) | CI/CD pipeline implementation for Django | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
 </div>
 
 ---
