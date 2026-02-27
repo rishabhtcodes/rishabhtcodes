@@ -1,68 +1,103 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Rishabh Tiwari</h1>
-<h3 align="center">Full Stack Developer | Django | React | Cloud Enthusiast</h3>
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/avdeshjadon/avdeshjadon/main/Banner.png" alt="GitHub Banner" width="100%" />
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://portfolio-link.com">Portfolio</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B+I'm+Avdesh+Jadon;Full-Stack+Developer;Software+Developer+%26+Tester;Autonomous+Tools+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+<h3 align="center">Indian Software Developer | Full Stack Engineer | Tech Explorer</h3>
 
-## 🚀 About Me
 
-- 🔭 Currently working on **Django + React Projects**
-- 🌱 Learning **Cloud, DevOps & System Design**
-- 💬 Ask me about **Python, Django, APIs, MongoDB**
-- ⚡ Fun fact: I turn coffee into scalable applications ☕
 
 ---
 
-## 🛠 Tech Stack
-
-### 🚀 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+##  About Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="320px" alt="My Video Animation" />
 </p>
+
+
+
+- **Passionate Full Stack Developer** crafting digital experiences  
+- **Currently mastering**: Advanced AI/ML, Cloud Architecture & DevOps  
+- **Open to collaborate on**: Revolutionary Open Source Projects  
+- **Always learning**: Cutting-edge technologies and frameworks  
+- **Ask me about**: System Design, Software Testing, Full Stack 
+- **Reach me at**: [EMAIL](mailto:thevdeshjadon@gmail.com)  
+- **Fun fact**: I turn coffee into code and bugs into features  
 
 ---
 
-## 📈 Top Languages
+## Tech Stack  
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
+</div>
+
+---
+
+## Contribution Snake  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>  
 
 ---
 
-## 🐍 Contribution Snake
 
-```md
-![Snake animation](https://github.com/rishabhtcodes/rishabhtcodes/blob/output/github-contribution-grid-snake.svg)
+##  Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
+---
+
+##  Let's Build Something Amazing Together
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
+
+**I'm always open to collaborating on interesting projects, discussing ideas, or just connecting with fellow developers.**
+
+<br/>
+
+<a href="mailto:thevdeshjadon@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_me_an_Email-EA4335?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/avdeshjadon">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://portfolio-rust-six-39.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-A78BFA?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
