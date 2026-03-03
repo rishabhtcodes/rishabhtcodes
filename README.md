@@ -43,9 +43,9 @@ me.say_hi()
 - 💼 Open to **collaborations** and **freelance opportunities**
 - 📫 Reach me at **rishabhtiwari3538@gmail.com**
 
-<img src="./section-divider.svg" width="100%"/>
-
 -->
+
+<img src="./section-divider.svg" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -98,6 +98,8 @@ me.say_hi()
 
 <img src="./section-divider.svg" width="100%"/>
 
+<!--
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -105,6 +107,8 @@ me.say_hi()
 </div>
 
 <img src="./section-divider.svg" width="100%"/> 
+
+-->
 
 ## 🔥 Featured Projects
 
