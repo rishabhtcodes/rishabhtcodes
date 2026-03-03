@@ -176,6 +176,14 @@ me.say_hi()
 
 <img src="./section-divider.svg" width="100%"/>
 
+## � Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
+</div>
+
+<img src="./section-divider.svg" width="100%"/>
+
 ## 📈 Activity Graph
 
 <div align="center">
