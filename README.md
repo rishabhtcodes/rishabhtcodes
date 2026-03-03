@@ -35,7 +35,7 @@ class RishabhKumarTiwari:
 me = RishabhKumarTiwari()
 me.say_hi()
 ```
-<!--
+
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **Lovely Professional University** (CGPA: 7.10)
 - 🔭 I'm currently working on **Full Stack Web Applications** with **Django & React + Vite**
 - 🌱 Constantly learning & improving my skills in **React, Cloud Deployments & CI/CD**
@@ -43,7 +43,6 @@ me.say_hi()
 - 💼 Open to **collaborations** and **freelance opportunities**
 - 📫 Reach me at **rishabhtiwari3538@gmail.com**
 
--->
 
 <img src="./section-divider.svg" width="100%"/>
 
