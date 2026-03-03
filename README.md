@@ -94,10 +94,6 @@ me.say_hi()
 
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhtcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
 
-<br/>
-
-<img src="https://ghchart.rshah.org/6C63FF/rishabhtcodes" alt="Daily Contribution Chart" width="90%"/>
-
 </div>
 
 <img src="./section-divider.svg" width="100%"/>
