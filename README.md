@@ -96,13 +96,13 @@ me.say_hi()
 
 <img src="./section-divider.svg" width="100%"/>
 
-<-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=rishabhtcodes&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<img src="./section-divider.svg" width="100%"/>  -->
+<img src="./section-divider.svg" width="100%"/> 
 
 ## 🔥 Featured Projects
 
