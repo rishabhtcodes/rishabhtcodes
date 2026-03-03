@@ -94,6 +94,10 @@ me.say_hi()
 
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabhtcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
 
+<br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhtcodes&theme=tokyonight" alt="Daily Contribution Graph"/>
+
 </div>
 
 <img src="./section-divider.svg" width="100%"/>
