@@ -96,7 +96,8 @@ me.say_hi()
 
 <br/>
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhtcodes&theme=tokyonight" alt="Daily Contribution Graph"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhtcodes&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhtcodes&theme=tokyonight" alt="Most Commit Language"/>
 
 </div>
 
