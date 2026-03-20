@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://linkedin.com/in/rishabhtcodes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.rishabhtcodes.tech"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="mailto:rishabhtiwari3538@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://github.com/rishabhtcodes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 </p>
@@ -21,6 +22,7 @@ class RishabhKumarTiwari:
     def __init__(self):
         self.name = "Rishabh Kumar Tiwari"
         self.role = "Full Stack Engineer"
+        self.website = "www.rishabhtcodes.tech"
         self.education = "B.Tech CSE @ Lovely Professional University"
         self.location = "Jalandhar, Punjab, India 🇮🇳"
         self.languages = ["C", "C++", "Python", "Java", "JavaScript", "PHP"]
