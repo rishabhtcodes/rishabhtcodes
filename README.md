@@ -140,7 +140,7 @@ me.say_hi()
 
 | | Details |
 |---|---|
-| 🏫 **Lovely Professional University** | B.Tech in Computer Science & Engineering • CGPA: 7.10 |
+| 🏫 **Lovely Professional University** | B.Tech in Computer Science & Engineering |
 | 📍 Location | Phagwara, Punjab |
 
 </div>
