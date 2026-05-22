@@ -112,13 +112,17 @@
     <rect x="455" y="185" width="70" height="30" rx="15" fill="#1E1A2E" stroke="#3B2D5E" stroke-width="1"/>
     <text x="490" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#646CFF" text-anchor="middle" font-weight="600">Vite</text>
 
+    <!-- Laravel pill -->
+    <rect x="535" y="185" width="85" height="30" rx="15" fill="#FF2D20" stroke="#B71D1C" stroke-width="1"/>
+    <text x="577.5" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#FFF" text-anchor="middle" font-weight="600">Laravel</text>
+
     <!-- Node.js pill -->
-    <rect x="535" y="185" width="90" height="30" rx="15" fill="#1A2E1A" stroke="#2D5E2D" stroke-width="1"/>
-    <text x="580" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#339933" text-anchor="middle" font-weight="600">Node.js</text>
+    <rect x="630" y="185" width="90" height="30" rx="15" fill="#1A2E1A" stroke="#2D5E2D" stroke-width="1"/>
+    <text x="675" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#339933" text-anchor="middle" font-weight="600">Node.js</text>
 
     <!-- Python pill -->
-    <rect x="635" y="185" width="90" height="30" rx="15" fill="#1A1E2E" stroke="#2D3A5E" stroke-width="1"/>
-    <text x="680" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#3776AB" text-anchor="middle" font-weight="600">Python</text>
+    <rect x="730" y="185" width="90" height="30" rx="15" fill="#1A1E2E" stroke="#2D3A5E" stroke-width="1"/>
+    <text x="775" y="205" font-family="'Segoe UI', sans-serif" font-size="13" fill="#3776AB" text-anchor="middle" font-weight="600">Python</text>
   </g>
 
   <!-- Education line -->
