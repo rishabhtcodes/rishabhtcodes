@@ -112,27 +112,6 @@ me.say_hi()
 
 -->
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🚀 Professional Portfolio](https://portfolio-cyan-chi-94.vercel.app) | Modern full-stack portfolio website showcasing projects, skills, and certifications | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
-| [🔒 Password Strength Detector](https://password-strength-detector-1.vercel.app) | A tool to analyze and evaluate the strength of passwords securely | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| [📋 Project Management System](https://github.com/rishabhtcodes/Project_Management_System) | Task and project management system | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [📧 Mailing Web App](https://github.com/rishabhtcodes/Mailing-Web-App) | A customizable web frontend for mailing services | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [🌾 Crop Disease Prediction](https://github.com/rishabhtcodes) | Rule-driven crop analysis using 2D arrays to evaluate temperature-humidity conditions & flag disease risks | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-blue?style=flat-square) |
-| [📅 Study Timetable Generator](https://github.com/rishabhtcodes) | Dynamic scheduling engine generating weekly study plans with weighted randomization & adaptive timetables | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![STL](https://img.shields.io/badge/-STL-orange?style=flat-square) |
-| [🛒 Lovely Kart E-Commerce](https://lovelycart.vercel.app/) | Seamless shopping experience with product browsing, cart management & responsive design | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| [✅ Todo List](https://github.com/rishabhtcodes/Todo_list) | Task management app with add, update, delete & clean responsive interface | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| [� Django REST APIs](https://github.com/rishabhtcodes/Django_Rest_Api-s) | REST API implementations demonstrating different data sending patterns | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white) |
-| [💼 Udyog Saarthi](https://github.com/rishabhtcodes/Udyog_Saarthi) | Career guidance platform | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [🔄 Django CI/CD](https://github.com/rishabhtcodes/djangocicd) | CI/CD pipeline implementation for Django projects | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
-</div>
-
-<img src="./section-divider.svg" width="100%"/>
 
 ## 🎓 Education
 
