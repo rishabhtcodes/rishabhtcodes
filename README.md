@@ -39,7 +39,10 @@ Full Stack Developer specializing in building web applications with **React, Dja
 
 <div align="center">
   <img src="./banner.svg" width="100%" alt="Let's Connect"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=rishabhtcodes&color=0366d6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
+
 
 
 
