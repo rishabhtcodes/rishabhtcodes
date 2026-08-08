@@ -3,6 +3,9 @@
 Full Stack Engineer | B.Tech CSE @ Lovely Professional University  
 📍 Jalandhar, Punjab, India
 
+Former IT Intern | Hindalco Industries Limited
+📍 Renukoot, Uttar Pradesh, India
+
 [LinkedIn](https://linkedin.com/in/rishabhtcodes) • [Portfolio](https://rishabhtcodes.vercel.app/) • [GitHub](https://github.com/rishabhtcodes) • [Email](mailto:rishabhtiwari3538@gmail.com)
 
 ---
